@@ -1,0 +1,1 @@
+pdf2txt.py -o output.txt naacl06-shinyama.pdf
